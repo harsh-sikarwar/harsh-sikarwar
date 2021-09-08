@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front-end web development 
 - 📫 How to reach me, mail me at hvsikarwar@gmail.com 
 - I am currently looking for a co-founder for my first business idea, he should know backend in web development and have some
-  good experience in web development.
+  good experience in that.
   
 <!---
 harsh-sikarwar/harsh-sikarwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
